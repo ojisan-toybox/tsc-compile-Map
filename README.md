@@ -1,0 +1,2 @@
+# tsc-compile-Map
+Mapはtargetどこまででトランスパイルできるか
