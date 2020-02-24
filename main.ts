@@ -1,1 +1,1 @@
-const hoge = 0;
+const hoge = new Map();
